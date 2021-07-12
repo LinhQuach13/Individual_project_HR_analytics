@@ -1,0 +1,15 @@
+Feature ,Datatype,Description
+enrollee_id ,int64,Unique ID for candidate
+city,object,City code
+city_ development _index ,float64,Developement index of the city (scaled)
+gender,object,Gender of candidate
+relevent_experience,object,Relevant experience of candidate
+enrolled_university,object,Type of University course enrolled if any
+education_level,object,Education level of candidate
+major_discipline,object,Education major discipline of candidate
+experience,object,Candidate total experience in years
+company_size,object,No of employees in current employer's company
+company_type,object,Type of current employer
+lastnewjob,object,Difference in years between previous job and current job
+training_hours,int64,training hours completed
+target,float64,"0 – Not looking for job change, 1 – Looking for a job change"

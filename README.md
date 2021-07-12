@@ -96,7 +96,7 @@ Here is a snapshot of my project planning from my Trello Board
  
   - All models performed similarly except for KNeighbors had a lower accuracy score than the baseline
   
-  - The models I created were a Decision tree, Logistic Regression Model, KNeighbors, and Random Forest Model predicted similar accuracy scores for the training dataset except for KNeighbors. The model I chose was the Decision Tree model 2 as my best model with a 75.52% accuracy rate for predicting features of company type, relevent experience, status of University enrollment, last new job.
+  - The models I created were a Decision tree, Logistic Regression Model, KNeighbors, and Random Forest Model predicted similar accuracy scores for the training dataset except for KNeighbors. The model I chose was the Decision Tree model 2 as my best model with a 75.52% accuracy rate for predicting features of company type, relevent experience, status of University enrollment, and last new job.
   
   -  The Decision Tree model 2 (75.52%) outperformed my baseline score of 75.09% thus it has some value.
   

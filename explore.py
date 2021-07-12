@@ -47,7 +47,7 @@ def data_split(df):
 
 def get_heatmap(col_list, target,  color = 'mako'):
     '''
-    This method will return a heatmap of all variables and there relation to logerror
+    This method will return a heatmap of all variables and their relation to target
     '''
     plt.figure(figsize=(14,12))
     heatmap = sns.heatmap(col_list.corr()[[target]].sort_values(by=target, ascending=False), annot=True, linewidth=0.5,fmt = '.0%',cmap = color, center = 0)

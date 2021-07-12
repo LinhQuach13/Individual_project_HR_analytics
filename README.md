@@ -16,9 +16,9 @@
 ## Dataset
 > - This data is being pulled from Kaggle.
 
-    > - The following link contains the dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=sample_submission.csv
+    - The following link contains the dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=sample_submission.csv
 
-    > - When downloaded, you will have a three .csv files. The dataset I used was aug_train.csv
+    - When downloaded, you will have a three .csv files. The dataset I used was aug_train.csv
 
 
 ### Project Planning 

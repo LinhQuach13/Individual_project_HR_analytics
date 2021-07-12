@@ -127,6 +127,6 @@ ___
 
 You will need your own env file with database credentials along with all the necessary files listed below to run my final project notebook. 
 - [x] Read this README.md
-- [ ] Download HR Analytics Dataset from Kaggle
+- [ ] Download HR Analytics Dataset from Kaggle into your working directory
 - [ ] Download the aquire.py, prepare.py, explore.py and Final_notebook.ipynb files into your working directory
 - [ ] Run the Final_notebook.ipynb notebook

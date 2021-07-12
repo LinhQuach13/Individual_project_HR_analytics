@@ -2,7 +2,8 @@
 
 
 #### Abstract
-When a company wants to know which of their candidates really wants to work for the company after training or looking for a new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates.
+
+ If a company could predict factorsIt helps to reduce the cost, time as well as the quality of training or planning the courses and categorization of candidates if a company can predict when. In addition, this dataset is designed to help HR researches to understand the factors that lead a person to leave a current job.
 
 
 
@@ -126,6 +127,6 @@ ___
 
 You will need your own env file with database credentials along with all the necessary files listed below to run my final project notebook. 
 - [x] Read this README.md
-- [ ] Download the aquire.py, prepare.py, and zillow_final.ipynb files into your working directory
-- [ ] Add your own env file to your directory. (user, password, host)
-- [ ] Run the zillow_final.ipynb notebook3
+- [ ] Download HR Analytics Dataset from Kaggle
+- [ ] Download the aquire.py, prepare.py, explore.py and Final_notebook.ipynb files into your working directory
+- [ ] Run the Final_notebook.ipynb notebook

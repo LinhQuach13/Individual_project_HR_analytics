@@ -96,7 +96,7 @@ Here is a snapshot of my project planning from my Trello Board
 
 ### Executive Summary - Conclusions & Next Steps
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
-<b>The following are key takeways:</b>
+<b>Findings:</b>
 
   -There is not one main driver for job change of Data Scientists.
  

@@ -12,7 +12,7 @@
 > - Construct a ML classification model that accurately predicts who will move to a new job
 
 
-## Dataset
+#### Dataset
 > - This data is being pulled from Kaggle.
 
 > - The following link contains the dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=sample_submission.csv
@@ -42,7 +42,7 @@ Here is a snapshot of my project planning from my Trello Board
 
 #### Data Dictionary
     
-- This is a data dictionary as a reference for the variables used within in the data set. A sample of what is included in data dictionary is below. Please refer to zillow_data_dictionary.csv for more details.
+- This is a data dictionary as a reference for the variables used within in the data set. A sample of what is included in data dictionary is below. Please refer to HR_analytics_data_dictionary.csv for more details.
 
 
  |   Target    |  Data Type   | Description    |

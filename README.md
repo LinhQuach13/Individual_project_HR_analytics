@@ -47,7 +47,7 @@ Here is a snapshot of my project planning from my Trello Board
 
  |   Target    |  Data Type   | Description    |
 | :------------- | :----------: | -----------: |
-| target| float64|  – Not looking for job change, 1 – Looking for a job change
+| target| float64|  0– Not looking for job change, 1 – Looking for a job change
 
 
 

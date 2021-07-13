@@ -8,7 +8,7 @@ I chose this dataset for the factors included in the data which may help HR unde
 
 The ability to target whether a candidate will leave a job may allow for the savings of money, time, and may assist in finding methods to improve retention.
 
-The main goal of this project is to create a model that with specific features can accurately predict a candidate's decision to stay or leave a company. A classification model was constructed to predict the target of job change. The model performed slightly better than the baseline thus it has some value.
+The main goal of this project is to create a model that with specific features can accurately predict a candidate's decision to stay or leave a company. A classification model was constructed to predict the target of who will move to a new job (job change). The model performed slightly better than the baseline thus it has some value.
 
 
 

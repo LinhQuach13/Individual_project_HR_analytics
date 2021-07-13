@@ -2,6 +2,13 @@
 
 
 #### Abstract
+Would you be interested in knowing who really wants to work for your company in the world of Big Data and Data Science? After all, training and looking for the right candidate costs time and money. What if you could reduce the cost and time as well as find quality candidates for your company? If your interest is peaked by the questions listed then this project is for you.
+
+I chose this dataset for the factors included in the data which may help HR understand why a candidate such as a Data Scientist would leave a current job.
+
+The ability to target whether a candidate will leave a job may allow for the savings of money, time, and may assist in finding methods to improve retention.
+
+The main goal of this project is to create a model that with specific features can accurately predict a candidate's decision to stay or leave a company. A classification model was constructed to predict the target of job change. The model performed slightly better than the baseline thus it has some value.
 
 
 

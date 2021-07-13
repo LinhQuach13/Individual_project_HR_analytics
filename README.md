@@ -118,7 +118,6 @@ Here is a snapshot of my project planning from my Trello Board
 > - Modeling
 
 
-___
 
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>
 

@@ -23,14 +23,14 @@ The main goal of this project is to create a model that with specific features c
 #### Dataset
 > - This data is being pulled from Kaggle.
 
-> - The following link contains the dataset: https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=sample_submission.csv
+> - The following link contains the dataset: [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists?select=sample_submission.csv)
 
 > - When downloaded, you will have a three .csv files. The dataset I used was aug_train.csv
 
 
 ### Project Planning 
 
-The following link contains my project planning process on my Trello Board: https://trello.com/b/u97V2VhP/individual-project-hr-analytics
+The following link contains my project planning process on my Trello Board: [Trello](https://trello.com/b/u97V2VhP/individual-project-hr-analytics)
 
 Here is a snapshot of my project planning from my Trello Board
 

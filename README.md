@@ -34,7 +34,7 @@ The following link contains my project planning process on my Trello Board: http
 
 Here is a snapshot of my project planning from my Trello Board
 
-![image](https://user-images.githubusercontent.com/80718476/125339051-8ed45d80-e316-11eb-85ad-434217fcf4ce.png)
+![image](https://user-images.githubusercontent.com/80718476/125496415-83f24993-e01f-4ab0-9ed5-6e43a17a232c.png)
 
 ### Project Summary
 <hr style="border-top: 10px groove blueviolet; margin-top: 1px; margin-bottom: 1px"></hr>

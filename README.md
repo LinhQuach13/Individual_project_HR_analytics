@@ -101,7 +101,7 @@ Here is a snapshot of my project planning from my Trello Board
 
   -There is not one main driver for job change of Data Scientists.
  
-  - All models performed similarly except for KNeighbors had a lower accuracy score than the baseline
+  - All models performed similarly except for KNNeighbors had a lower accuracy score than the baseline
   
   - The models I created were a Decision tree, Logistic Regression Model, KNeighbors, and Random Forest Model predicted similar accuracy scores for the training dataset except for KNeighbors. The model I chose was the Decision Tree model 2 as my best model with a 75.52% accuracy rate for predicting features of company type, relevent experience, status of university enrollment, and last new job.
   

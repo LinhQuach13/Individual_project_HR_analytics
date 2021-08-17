@@ -77,14 +77,14 @@ Here is a snapshot of my project planning from my Trello Board
 ### Hypothesis 1:
 > - **Hypothesis 1 -** I rejected the Null Hypothesis; there is a relationship.
 > - alpha = .05
-> - $H_0$: Company type has no affect on data scientist who leave their job or not (they are independent). 
-> - $H_a$: Company type has an affect on data scientist who leave their job or not (they are dependent). 
+> - $H_0$ : Company type has no affect on data scientist who leave their job or not (they are independent). 
+> - $H_a$ : Company type has an affect on data scientist who leave their job or not (they are dependent). 
 
 ### Hypothesis 2:
 > - **Hypothesis 2 -** I rejected the Null Hypothesis; there is a relationship.
 > - alpha = .05
-> - $H_0$:  Relevant experience has no affect on data scientist who leave their job or not (they are independent). 
-> - $H_a$:  Relevant experience has an affect on data scientist who leave their job or not (they are dependent).
+> - $H_0$ :  Relevant experience has no affect on data scientist who leave their job or not (they are independent). 
+> - $H_a$ :  Relevant experience has an affect on data scientist who leave their job or not (they are dependent).
 
 ### Hypothesis 3:
 > - **Hypothesis 3 -** I rejected the Null Hypothesis; there is a relationship.
